@@ -1,6 +1,7 @@
 ..
    SPDX-FileCopyrightText: 2015-2023 CERN.
    SPDX-FileCopyrightText: 2022 Northwestern University.
+   SPDX-FileCopyrightText: 2026 TU Wien.
    SPDX-License-Identifier: BSD-3-Clause
 
    In applying this license, CERN does not waive the privileges and immunities
@@ -10,6 +11,14 @@
 
 Changes
 =======
+
+Version v1.7.0 (released 2026-07-16)
+
+- chore(workflows): use the centralized publish workflow
+- chore(setup): migrate from setuptools to hatchling
+- RAiD support (#143)
+- build(deps): bump actions/checkout from 6 to 7
+- build(deps): bump pypa/gh-action-pypi-publish from 1.13.0 to 1.14.0
 
 Version v1.6.1 (released 2026-05-28)
 

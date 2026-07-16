@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: 2019 Inria.
 # SPDX-FileCopyrightText: 2022 University of Münster.
 # SPDX-FileCopyrightText: 2026 Graz University of Technology.
+# SPDX-FileCopyrightText: 2026 TU Wien.
 # SPDX-License-Identifier: BSD-3-Clause
 #
 # In applying this license, CERN does not waive the privileges and immunities
@@ -14,7 +15,7 @@
 import importlib
 import pkgutil
 
-__version__ = "1.6.1"
+__version__ = "1.7.0"
 
 
 def import_attributes():
